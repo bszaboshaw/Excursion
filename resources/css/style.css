@@ -1,0 +1,45 @@
+
+
+body {
+  background-color: black;
+  text-align: center;
+  font-family: Verdana;
+  font-weight: normal;
+}
+
+h1 {
+  font-family: Verdana;
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+  font-align: center;
+}
+
+h2 {
+  color: white;
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+}
+
+a.download {
+  color: aquamarine;
+  font-size: 16px;
+}
+p.appsummary {
+  font-family: Verdana;
+  font-size: 21px;
+  color: gray;
+}
+
+.tent {
+  text-align: center;
+  padding-bottom: 30px;
+}
+
+.footer {
+  text-align: right;
+  color: gray
+}
+
+.icon
